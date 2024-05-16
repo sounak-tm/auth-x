@@ -1,2 +1,2 @@
-# tm-auth
-Python wrapper for Google Zanzibar's open source implementation of Spice DB
+# AuthX
+Implementation of Google Zanzibar for TM Auth
